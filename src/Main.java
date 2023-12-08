@@ -7,4 +7,6 @@ public class Main {
         public void yeah() {
             System.out.println("muahhaa");
         }
+
+        public void muu() {}
     }
