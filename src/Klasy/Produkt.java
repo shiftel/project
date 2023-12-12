@@ -1,3 +1,5 @@
+package Klasy;
+
 abstract public class Produkt {
     private double cena;
     private String nazwa;
@@ -71,6 +73,13 @@ abstract public class Produkt {
 
     public void setProducent(Producent producent) {
         this.producent = producent;
+    }
+
+    public boolean czyProduktDostępny () {
+        if (this.ilosc_w_magazynie > 0) {
+            return true;
+        }
+        else {return false;}
     }
 
 }

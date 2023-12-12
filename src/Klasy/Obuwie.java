@@ -1,3 +1,5 @@
+package Klasy;
+
 public class Obuwie extends Produkt{
     private byte rozmiar;
     private String typObuwia;

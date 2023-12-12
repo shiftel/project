@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08d5b5da-7ad9-4f2f-afa0-0f3ac3aa0a68" name="Changes" comment="Adding k">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="08d5b5da-7ad9-4f2f-afa0-0f3ac3aa0a68" name="Changes" comment="muu">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza_logowania.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klasy/Klient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klasy/Obserwator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klasy/Podmiot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klasy/Promocja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Klasy/SystemLogowania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Płacenie/PłacenieBlikiem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Płacenie/PłacenieKartą.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Płacenie/Płacenie_za_zakup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Koszyk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Klasy/Koszyk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Klasy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obuwie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Klasy/Obuwie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Producent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Klasy/Producent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Klasy/Produkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spodnie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Klasy/Spodnie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,14 +28,27 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2ZEx34zGlhml4VLQB6A8hYdYBNm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,9 +56,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\48509\Downloads\project" />
+      <recent name="C:\Users\48509\Downloads\project\src" />
+      <recent name="C:\Users\48509\Downloads\project\src\Klasy" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1702000976260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Yeah">
+      <created>1702001188473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702001188473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="muu">
+      <created>1702003033774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702003033774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="muu">
+      <created>1702004772225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702004772225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,6 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding k" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding k" />
+    <MESSAGE value="Yeah" />
+    <MESSAGE value="muu" />
+    <option name="LAST_COMMIT_MESSAGE" value="muu" />
   </component>
 </project>

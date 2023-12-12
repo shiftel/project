@@ -1,3 +1,5 @@
+package Klasy;
+
 public class Producent {
     private String marka;
     private String kraj_pochodzenia;

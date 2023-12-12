@@ -1,3 +1,5 @@
+package Klasy;
+
 public class Spodnie extends Produkt{
     private String rozmiar;
     private byte dlugosc_spodni;
